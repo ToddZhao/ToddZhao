@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##GitHub ToddZhao
+##公众号 凡超「fanchaostudio」
+##地球号 fanchaoaigc
+##知识星球  凡超 AI ：https://wx.zsxq.com/group/51112145824844 
