@@ -1,21 +1,35 @@
-## Hi there 👋
+# 👋 你好，我是凡超
 
-<!--
-**ToddZhao/ToddZhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 关于我
+我是一名互联网科技 AI 博主，专注于技术、AI、旅游和跨境领域。作为个人独立开发者，我立志通过 AI 技术实现创新项目，分享我的开发经验和见解。
 
-Here are some ideas to get you started:
+## 🔍 专业领域
+- 💻 技术开发与分享
+- 🤖 AI 应用与研究
+- ✈️ 旅游体验与科技结合
+- 🌏 跨境电商与国际化视野
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🛠️ 技术栈
+<!-- 这里可以根据实际情况添加您擅长的技术栈 -->
+- 人工智能 & 机器学习
+- Web 开发
+- 移动应用开发
+- 云服务与部署
+
+## 📚 个人项目
+<!-- 这里可以添加您的个人项目 -->
+- [项目一] - 简短描述
+- [项目二] - 简短描述
+
+## 📫 联系方式
+- **GitHub**: [ToddZhao](https://github.com/ToddZhao)
+- **公众号**: 凡超「fanchaostudio」
+- **地球号**: fanchaoaigc
+- **知识星球**: [凡超 AI](https://wx.zsxq.com/group/51112145824844)
+
+## 🌈 愿景
+作为个人独立开发者，我致力于探索 AI 技术的无限可能，创造有价值的产品和内容，分享我的技术见解和生活体验。
+
+<!-- 
+感谢您访问我的 GitHub 主页！如果您对我的项目感兴趣或有任何问题，欢迎通过上述方式联系我。
 -->
-
-##GitHub ToddZhao
-##公众号 凡超「fanchaostudio」
-##地球号 fanchaoaigc
-##知识星球  凡超 AI ：https://wx.zsxq.com/group/51112145824844 
