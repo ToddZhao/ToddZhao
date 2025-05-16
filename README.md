@@ -26,6 +26,8 @@
 - **公众号**: 凡超「fanchaostudio」
 - **地球号**: fanchaoaigc
 - **知识星球**: [凡超 AI](https://wx.zsxq.com/group/51112145824844)
+- **知乎**: 凡超 FanChao (https://www.zhihu.com/people/toddzhao)
+
 
 ## 🌈 愿景
 作为个人独立开发者，我致力于探索 AI 技术的无限可能，创造有价值的产品和内容，分享我的技术见解和生活体验。
